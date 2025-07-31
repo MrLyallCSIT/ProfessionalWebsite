@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+        <loc>https://www.mrdaviscsit.uk/blog/acknowledgements-and-dedications.html</loc>
+    </url>
+    <url>
+        <loc>https://www.mrdaviscsit.uk/blog/clearing-the-clutter.html</loc>
+    </url>
+    <url>
+        <loc>https://www.mrdaviscsit.uk/blog/edtech-rollout-strategies.html</loc>
+    </url>
+    <url>
+        <loc>https://www.mrdaviscsit.uk/blog/its-been-a-while.html</loc>
+    </url>
+    <url>
+        <loc>https://www.mrdaviscsit.uk/blog/marking-the-milestone.html</loc>
+    </url>
+    <url>
+        <loc>https://www.mrdaviscsit.uk/blog/somethings-not-right.html</loc>
+    </url>
+    <url>
+        <loc>https://www.mrdaviscsit.uk/blog/what-started-it-all.html</loc>
+    </url>
+    <url>
+>>>>>>> c47711493f058c24314b6b112dd77bb3a7aa63ca
         <loc>https://www.mrdaviscsit.uk/my-work/extracurricular-projects/citation-needed.html</loc>
+=======
+        <loc>https://www.mrdaviscsit.uk/my-work/extracurricular-projects/citation-needed</loc>
+>>>>>>> Stashed changes
     </url>
     <url>
         <loc>https://www.mrdaviscsit.uk/my-work/extracurricular-projects/exam-buff-or-exam-bluff.html</loc>
@@ -85,7 +113,32 @@
         <loc>https://www.mrdaviscsit.uk/about.html</loc>
     </url>
     <url>
+<<<<<<< Updated upstream
         <loc>https://www.mrdaviscsit.uk/blog.html</loc>
+=======
+        <loc>https://www.mrdaviscsit.uk/posts/acknowledgements-and-dedications</loc>
+    </url>
+    <url>
+        <loc>https://www.mrdaviscsit.uk/posts/clearing-the-clutter</loc>
+    </url>
+    <url>
+        <loc>https://www.mrdaviscsit.uk/posts/edtech-rollout-strategies</loc>
+    </url>
+    <url>
+        <loc>https://www.mrdaviscsit.uk/posts/its-been-a-while</loc>
+    </url>
+    <url>
+        <loc>https://www.mrdaviscsit.uk/posts/marking-the-milestone</loc>
+    </url>
+    <url>
+        <loc>https://www.mrdaviscsit.uk/posts/somethings-not-right</loc>
+    </url>
+    <url>
+        <loc>https://www.mrdaviscsit.uk/posts/what-started-it-all</loc>
+    </url>
+    <url>
+        <loc>https://www.mrdaviscsit.uk/about</loc>
+>>>>>>> Stashed changes
     </url>
     <url>
         <loc>https://www.mrdaviscsit.uk/contact.html</loc>
